@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/yashdharme36/airfare-ml-predicting-flight-fares
+
+https://www.kaggle.com/datasets/regaipkurt/financial-markets
+
+https://www.kaggle.com/datasets/thedevastator/california-grid-hourly-prices
